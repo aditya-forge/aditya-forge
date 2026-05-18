@@ -146,23 +146,23 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 <div align="center">
 
-<!-- Using github-profile-summary-cards — extremely reliable, never rate-limited -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Kumar24&theme=tokyonight" alt="Profile Summary" width="100%" />
+<!-- Full-width commit timeline -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Kumar24&theme=tokyonight" alt="Profile Details" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Kumar24&theme=tokyonight" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Kumar24&theme=tokyonight" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Kumar24&theme=tokyonight" alt="Stats" width="32%" />
+<!-- Two cards side by side — properly sized -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Kumar24&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Kumar24&theme=tokyonight" alt="Stats" width="49%" />
 
 <br/><br/>
 
-<!-- demolab.com — the most reliable streak stats provider -->
-<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="60%" />
+<!-- Streak stats — centered and prominent -->
+<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="65%" />
 
 <br/><br/>
 
-<!-- Activity graph -->
+<!-- Full-width contribution graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED" alt="Contribution Graph" width="100%" />
 
 </div>
