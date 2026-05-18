@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=250&section=header&text=Aditya%20Kumar&fontSize=70&fontWeight=700&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Full-Stack%20Builder&descSize=20&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=220&section=header&text=Aditya%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Patent%20Holder&descSize=18&descAlignY=55&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="https://github.com/Aditya-Kumar24">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Scalable+Web+Architectures;%F0%9F%A7%A0+Pioneering+AI+%26+IoT+Integration;%F0%9F%93%9C+Patent+Published+Inventor;%F0%9F%92%BB+Open+Source+Contributor" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;AI+%26+IoT+Researcher;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
 </div>
 
