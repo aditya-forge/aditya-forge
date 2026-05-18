@@ -2,9 +2,6 @@
   ========================================================================
   🔥 THE ULTIMATE DEVELOPER README (TERMINAL / NEXT-LEVEL EDITION)
   ========================================================================
-  Instructions for Advanced Features:
-  1. Snake Animation: Follow the guide here to enable it: https://github.com/Platane/snk
-  2. Spotify Now Playing: Follow this to link your Spotify: https://github.com/novatorem/novatorem
 -->
 
 <div align="center">
@@ -62,41 +59,22 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>🎧 Currently Vibing To</h3>
-      <!-- Spotify Now Playing Widget (Requires setup via novatorem) -->
-      <a href="https://github.com/novatorem">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="300px" />
+      <h3>🏆 GitHub Trophies</h3>
+      <a href="https://github.com/Aditya-Kumar24">
+        <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Kumar24&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" width="100%" />
       </a>
-      <br>
-      <i>(Note: Replace "your_spotify_id" in the code with your actual Spotify URI ID to activate)</i>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🐍 GitHub Contribution Snake (The "Next-Level" Flex)
-
-<div align="center">
-  <!-- 
-    The Snake SVG. 
-    To make this actually animate, you must set up the GitHub Action.
-    Tutorial: https://github.com/Platane/snk
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Kumar24/Aditya-Kumar24/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Kumar24/Aditya-Kumar24/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aditya-Kumar24/Aditya-Kumar24/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ### 📊 System Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&layout=donut&theme=dracula&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
+  <!-- Fixed the bg_color bug that was breaking these images -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&layout=donut&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br>
