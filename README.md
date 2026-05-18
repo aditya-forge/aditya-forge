@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=260&section=header&text=Aditya%20Kumar&fontSize=65&fontWeight=700&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Builder&descSize=22&descAlignY=68&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=280&section=header&text=Aditya%20Kumar&fontSize=65&fontWeight=700&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Builder&descSize=22&descAlignY=68&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <br/>
 
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:hustlewthadi@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/Aditya-Kumar24">
     <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -33,8 +33,8 @@ const aditya = {
     role          : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.22",
     patent        : "Published Inventor — AI-Enabled Smart Trolley System (2025)",
     experience    : [
-                       "Web Development Intern @ Vaultsphere AI Technologies",
-                       "Student Researcher @ SRM University AP (EEE R&D)"
+                      "Web Development Intern  @ Vaultsphere AI Technologies",
+                      "Student Researcher       @ SRM University AP (EEE R&D)"
                    ],
     stack         : ["React", "Django", "Node.js", "Python", "C++", "MongoDB", "PostgreSQL"],
     currentFocus  : ["Scalable Architectures", "System Design", "AI/ML", "IoT Systems"],
@@ -42,6 +42,7 @@ const aditya = {
     philosophy    : "Ship fast. Think deeper. Break things. Rebuild better."
 };
 ```
+
 > 💡 I engineer at the intersection of AI, full-stack development, and IoT — turning research-grade ideas into production-grade systems.
 
 ---
@@ -52,15 +53,15 @@ const aditya = {
 <tr><td>
 
 #### 🏅 AI-Enabled Smart Shopping Trolley System
-**Status:** &nbsp; `Patent Published` &nbsp; (Indian Patent Journal, 2025)
+**Status:** &nbsp;`Patent Published` &nbsp;·&nbsp; Indian Patent Journal, 2025
 
 An autonomous, IoT-integrated retail navigation framework with edge-based real-time billing. Bridges the gap between computer vision, autonomous navigation, and modern retail infrastructure. Integrates RFID, Ultrasonic, IR, and Camera modules for intelligent checkout with zero human intervention.
 
 <p>
-  <img src="https://img.shields.io/badge/IoT-Integrated-007ACC?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-Enabled-8A2BE2?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge_AI-Real--Time-4169E1?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retail_Tech-Innovated-2E8B57?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-Integrated-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Enabled-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Edge_AI-Real--Time-4169E1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retail_Tech-Innovated-2E8B57?style=flat-square" />
 </p>
 
 </td></tr>
@@ -72,13 +73,13 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 **🏢 Vaultsphere AI Technologies Pvt Ltd** &nbsp;|&nbsp; *Web Development Intern*
 `Feb 2026 – Present` &nbsp;·&nbsp; Bengaluru, India
-- Architecting and shipping production-ready, full-stack web applications at scale.
-- Optimizing backend infrastructure and driving performance improvements.
+- Architecting and shipping production-ready, full-stack web applications at scale in a hybrid startup environment.
+- Optimizing backend infrastructure and contributing robust features to live production codebases.
 
 **🔬 SRM University AP — Dept. of EEE (R&D)** &nbsp;|&nbsp; *Student Researcher*
 `Oct 2025 – Present` &nbsp;·&nbsp; Vijayawada, India
-- Leading research on a **patented AI-enabled system** under expert academic mentorship.
-- Applying AI, IoT, and Web3 concepts across interdisciplinary research domains.
+- Spearheading research on a **patented AI-enabled system** under expert academic mentorship.
+- Applying AI, IoT, and Web3 paradigms to interdisciplinary, real-world technical challenges.
 
 ---
 
@@ -88,7 +89,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
   <tr>
     <td width="50%" valign="top">
       <h4>☁️ DeployX — Cloud IDE & OS Tracker</h4>
-      <p>A cloud-based development environment with live multi-language code execution, GitHub OAuth, repo tracking, and an interactive contribution dashboard. Built RESTful APIs using Django and seamless GitHub synchronization workflows.</p>
+      <p>A cloud-based development environment with live multi-language code execution, GitHub OAuth, repo tracking, and an interactive contribution dashboard. Built RESTful APIs with Django and seamless GitHub sync workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -98,12 +99,12 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
     </td>
     <td width="50%" valign="top">
       <h4>🛒 AI-Enabled Smart Trolley (Patented)</h4>
-      <p>An autonomous retail system integrating real-time product detection, automated billing, and complex IoT sensor networks. Implemented cloud analytics to optimize inventory management and customer behavior insights.</p>
+      <p>An autonomous retail system with real-time product detection and automated billing. Implemented complex IoT sensor fusion and cloud analytics pipelines for inventory optimization and customer behavior tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-Hardware-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/RFID-Sensors-00B4D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/IoT_Hardware-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/RFID_Sensors-00B4D8?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -117,33 +118,25 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 **🔤 Languages**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,java&perline=6" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c,java&perline=6" /></a>
 
 <br/><br/>
 
 **🎨 Frontend**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6" /></a>
 
 <br/><br/>
 
 **🛠️ Backend & Databases**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,mysql&perline=6" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb,mysql&perline=6" /></a>
 
 <br/><br/>
 
 **🔧 DevOps & Tools**
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&perline=6" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&perline=6" /></a>
 
 </div>
 
@@ -153,16 +146,24 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="50%" />
+<!-- Using github-profile-summary-cards — extremely reliable, never rate-limited -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Kumar24&theme=tokyonight" alt="Profile Summary" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aditya-Kumar24&theme=tokyonight" alt="Repos Per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Kumar24&theme=tokyonight" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Kumar24&theme=tokyonight" alt="Stats" width="32%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&layout=compact&langs_count=8" alt="Most Used Languages" width="60%" />
+<!-- demolab.com — the most reliable streak stats provider -->
+<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true" alt="Contribution Graph" width="100%" />
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -187,6 +188,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 <div align="center">
   <br/>
+
   <a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
     <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
@@ -196,6 +198,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
   <a href="https://github.com/Aditya-Kumar24">
     <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <br/><br/>
 </div>
 
