@@ -17,6 +17,7 @@ const aditya = {
     role          : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.22",
     patent        : "Published Inventor — AI-Enabled Smart Trolley System (2025)",
     experience    : [
+                      "Product Engineering Intern (AI) @ CCC Digital India Private Limited",
                       "Web Development Intern  @ Vaultsphere AI Technologies",
                       "Student Researcher       @ SRM University AP (EEE R&D)"
                    ],
