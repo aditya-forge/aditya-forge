@@ -14,7 +14,7 @@
 
 ```javascript
 const aditya = {
-    role          : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.22",
+    role          : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.35",
     patent        : "Published Inventor — AI-Enabled Smart Trolley System (2025)",
     experience    : [
                       "Product Engineering Intern (AI) @ CCC Digital India Private Limited",
@@ -57,7 +57,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 ### 💼 Professional Experience
 
 **🏢 Vaultsphere AI Technologies Pvt Ltd** &nbsp;|&nbsp; *Web Development Intern*
-`Feb 2026 – Present` &nbsp;·&nbsp; Bengaluru, India
+`Feb 2026 – May 2026` &nbsp;·&nbsp; Bengaluru, India
 - Architecting and shipping production-ready, full-stack web applications at scale in a hybrid startup environment.
 - Optimizing backend infrastructure and contributing robust features to live production codebases.
 
@@ -65,6 +65,11 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 `Oct 2025 – Present` &nbsp;·&nbsp; Vijayawada, India
 - Spearheading research on a **patented AI-enabled system** under expert academic mentorship.
 - Applying AI, IoT, and Web3 paradigms to interdisciplinary, real-world technical challenges.
+
+**🏢 CCC Digital India Pvt. Ltd** &nbsp;|&nbsp; *Product Engineering Intern (AI)*
+`May 2026 – Present` &nbsp;·&nbsp; Hyderabad, India
+- Developed AI-powered product features using LLMs and intelligent automation frameworks.
+- Integrated scalable AI solutions into production applications while collaborating on research, prototyping, and performance optimization.
 
 ---
 
