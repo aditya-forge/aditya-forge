@@ -142,7 +142,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <br/>
 
 <!-- Two cards side by side — properly sized -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-forge&theme=tokyonight&layout=compact" alt="Most Used Languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-forge&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true" alt="Most Used Languages" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-forge&theme=tokyonight" alt="Stats" width="49%" />
 
 <br/><br/>
