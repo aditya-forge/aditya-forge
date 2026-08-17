@@ -61,15 +61,15 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 - Architecting and shipping production-ready, full-stack web applications at scale in a hybrid startup environment.
 - Optimizing backend infrastructure and contributing robust features to live production codebases.
 
+**🏢 CCC Digital India Pvt. Ltd** &nbsp;|&nbsp; *Product Engineering Intern (AI)*
+`May 2026 – July 2026` &nbsp;·&nbsp; Hyderabad, India
+- Developed AI-powered product features using LLMs and intelligent automation frameworks.
+- Integrated scalable AI solutions into production applications while collaborating on research, prototyping, and performance optimization.
+
 **🔬 SRM University AP — Dept. of EEE (R&D)** &nbsp;|&nbsp; *Student Researcher*
 `Oct 2025 – Present` &nbsp;·&nbsp; Vijayawada, India
 - Spearheading research on a **patented AI-enabled system** under expert academic mentorship.
 - Applying AI, IoT, and Web3 paradigms to interdisciplinary, real-world technical challenges.
-
-**🏢 CCC Digital India Pvt. Ltd** &nbsp;|&nbsp; *Product Engineering Intern (AI)*
-`May 2026 – Present` &nbsp;·&nbsp; Hyderabad, India
-- Developed AI-powered product features using LLMs and intelligent automation frameworks.
-- Integrated scalable AI solutions into production applications while collaborating on research, prototyping, and performance optimization.
 
 ---
 
