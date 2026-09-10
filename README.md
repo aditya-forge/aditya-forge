@@ -1,55 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:7DCFFF&height=220&section=header&text=Aditya%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Patent%20Holder&descSize=18&descAlignY=55&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Architectures;AI+%26+IoT+Researcher;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="./assets/aditya-card.svg" alt="Aditya Kumar's terminal profile card" width="900" />
 
 </div>
 
 ---
 
-### 🧬 Who Am I?
+### 🧬 Who AmI?
 
 ```javascript
 const aditya = {
-    role          : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.35",
-    patent        : "Published Inventor of the AI-Enabled Smart Trolley System (2025)",
-    experience    : [
-                      "Product Engineering Intern (AI) @ CCC Digital India Private Limited",
-                      "Web Development Intern  @ Vaultsphere AI Technologies",
-                      "Student Researcher       @ SRM University AP (EEE R&D)"
+    role         : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.35",
+    patent       : "Published Inventor of the AI-Enabled Smart Trolley System (2025)",
+    experience   : [
+                    "Product Engineering Intern (AI) @ CCC Digital India Private Limited",
+                    "Web Development Intern       @ Vaultsphere AI Technologies",
+                    "Research Associate (Grant-Funded)     @ SRM University AP (EEE R&D)"
                    ],
-    stack         : ["MERN", "Python", "C++"],
-    currentFocus  : ["Full Stack", "AI/ML", "DSA", "System Design"],
-    philosophy    : "Ship fast. Think deeper. Break things. Rebuild better."
+    stack        : ["MERN", "Python", "C++", "MongoDB", "SQL"],
+    currentFocus : ["Full Stack", "AI/ML", "DSA", "System Design"],
+    philosophy   : "Ship fast. Think deeper. Break things. Rebuild better."
 };
 ```
 
-> 💡 I engineer at the intersection of AI and full-stack development, turning research-grade ideas into production-grade systems.
+>  I engineer at the intersection of AI and full-stack development, turning research-grade ideas into production-grade systems.
 
 ---
 
-### 📜 Intellectual Property
+
+<div align="center">
+
+### ~/ Intellectual Property
 
 <table width="100%">
 <tr><td>
 
-#### 🏅 AI-Enabled Smart Shopping Trolley System
+#### AI-Enabled Smart Shopping Trolley System
 **Status:** &nbsp;`Patent Published` &nbsp;·&nbsp; Indian Patent Journal, 2025
 
 An autonomous, IoT-integrated retail navigation framework with edge-based real-time billing. Bridges the gap between computer vision, autonomous navigation, and modern retail infrastructure. Integrates RFID, Ultrasonic, IR, and Camera modules for intelligent checkout with zero human intervention.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/IoT-Integrated-7AA2F7?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer_Vision-Enabled-BB9AF7?style=flat-square" />
   <img src="https://img.shields.io/badge/Edge_AI-Real--Time-7DCFFF?style=flat-square" />
@@ -59,122 +50,218 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 </td></tr>
 </table>
 
----
-
-### 💼 Professional Experience
-
-**🏢 Vaultsphere AI Technologies Pvt Ltd** &nbsp;|&nbsp; *Web Development Intern*
-`Feb 2026 – May 2026` &nbsp;·&nbsp; Bengaluru, India
-- Architecting and shipping production-ready, full-stack web applications at scale in a hybrid startup environment.
-- Optimizing backend infrastructure and contributing robust features to live production codebases.
-
-**🏢 CCC Digital India Pvt. Ltd** &nbsp;|&nbsp; *Product Engineering Intern (AI)*
-`May 2026 – July 2026` &nbsp;·&nbsp; Hyderabad, India
-- Developed AI-powered product features using LLMs and intelligent automation frameworks.
-- Integrated scalable AI solutions into production applications while collaborating on research, prototyping, and performance optimization.
-
-**🔬 SRM University AP, Dept. of EEE (R&D)** &nbsp;|&nbsp; *Student Researcher*
-`Oct 2025 – Present` &nbsp;·&nbsp; Vijayawada, India
-- Spearheading research on a **patented AI-enabled system** under expert academic mentorship.
-- Applying AI, IoT, and Web3 paradigms to interdisciplinary, real-world technical challenges.
+</div>
 
 ---
-
-### ⚙️ Technical Arsenal
 
 <div align="center">
 
-**Core CS Fundamentals:** OOPs &#183; DSA &#183; Operating Systems &#183; DBMS &#183; Computer Organization & Architecture
+### ~/ Professional Journey
 
-<br/><br/>
+<div align="center">
+<table>
+<tr>
+<th width="30%">Role</th>
+<th width="45%">Organization</th>
+<th width="25%">Duration</th>
+</tr>
+<tr>
+<td>Research Associate (Grant-Funded)</td>
+<td>SRM University, AP</td>
+<td>Oct 2025 -- Present</td>
+</tr>
+<tr>
+<td>Web Developer</td>
+<td>VAULTSPHERE AI TECHNOLOGIES PRIVATE LIMITED</td>
+<td>Feb 2026 -- May 2026</td>
+</tr>
+<tr>
+<td>Product Engineer (AI)</td>
+<td>CCC Digital India Private Limited</td>
+<td>May 2026 -- Jul 2026</td>
+</tr>
+</table>
+</div>
 
-**Languages**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts&perline=6" /></a>
+---
 
-<br/><br/>
+### ~/ Technical Arsenal
 
-**Frontend**
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>Languages</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c&theme=dark" alt="languages" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" alt="languages" />
+</td>
+<td align="center" width="50%">
+<h3>Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark" alt="frameworks" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>AI, ML & Data Science</h3>
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /><br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/GenAI-%23FF6F61.svg?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+<img src="https://img.shields.io/badge/AgenticAI-%23764ABC.svg?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic AI" /><br/><br/>
+</td>
+<td align="center" width="50%">
+<h3>Databases & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,gcp&theme=dark" alt="databases and cloud" /><br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<h3>DevOps & Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="devops" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" alt="more tools" /><br/><br/>
+<img src="https://img.shields.io/badge/emu8086-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="emu8086" />
+</td>
+</tr>
+</table>
+</div>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react&perline=6" /></a>
+---
 
-<br/><br/>
+### ~/ Honors & Awards
 
-**Backend & Databases**
+<div align="center">
+<table>
+<tr>
+<th width="40%">Honor / Award</th>
+<th width="40%">Issuer / Organization</th>
+<th width="20%">Date</th>
+</tr>
+<tr>
+<td>Finalist (Top 15 Nationwide in Health Tech & Ed Tech)</td>
+<td>VOID:v1 National Hackathon, VIT Chennai</td>
+<td>Oct 2025</td>
+</tr>
+<tr>
+<td>Gold Medalist (Presenting Author)</td>
+<td>10th Research Day, SRM University-AP</td>
+<td>Apr 2026</td>
+</tr>
+</table>
+</div>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6" /></a>
+---
 
-<br/><br/>
 
-**AI, ML & IoT**
+### ~/ Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-11151c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Generative_AI-11151c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic_AI-11151c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded_AI_%26_IoT-11151c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arduino-11151c?style=flat-square" />
+<div align="center">
+<table>
+<tr>
+<th width="45%">Certification</th>
+<th width="35%">Issuing Organization</th>
+<th width="20%">Date</th>
+</tr>
+<tr>
+<td>Associate Developer Exam Node.js / MongoDB Certified Associate Developer</td>
+<td>MongoDB</td>
+<td>Apr 2026</td>
+</tr>
+</table>
+</div>
+
+---
+
+### ~/ github-analytics
+
+<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-forge&theme=github_dark" width="31%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-forge&theme=github_dark" width="31%"/>
 </p>
+<img src="https://streak-stats.demolab.com/?user=aditya-forge&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak" height="170" />
 
-<br/>
 
-**Tools & Platform**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=6" /></a>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>  
 
 </div>
 
 ---
 
-### 📊 GitHub Intelligence Report
+### ~/ Leadership & Community
 
 <div align="center">
-
-<!-- Full-width commit timeline -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-forge&theme=tokyonight" alt="Profile Details" width="100%" />
-
-<br/>
-
-<!-- Two cards side by side, properly sized -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-forge&theme=tokyonight&layout=compact&langs_count=10&include_all_commits=true&card_width=465" alt="Most Used Languages" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-forge&theme=tokyonight" alt="Stats" width="49%" />
-
-<br/><br/>
-
-<!-- Streak stats, centered and prominent -->
-<img src="https://streak-stats.demolab.com/?user=aditya-forge&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7" alt="GitHub Streak" width="65%" />
-
-<br/><br/>
-
-<!-- Full-width contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-forge&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=FFFFFF&area=true&area_color=7AA2F7" alt="Contribution Graph" width="100%" />
-
+<table>
+<tr>
+<th width="30%">Role</th>
+<th width="45%">Organization</th>
+<th width="25%">Duration</th>
+</tr>
+<tr>
+<td>Campus Outreach Representative</td>
+<td>Zuno by foundit</td>
+<td>Jan 2025 -- Aug 2025</td>
+</tr>
+<tr>
+<td>Associate</td>
+<td>Next Tech Lab, AP</td>
+<td>Apr 2025 (1 mo)</td>
+</tr>
+<tr>
+<td>Co-Convenor</td>
+<td>Coding Club SRMAP</td>
+<td>May 2025 -- May 2026</td>
+</tr>
+<tr>
+<td>Member Internal Affairs & Interim Board Member</td>
+<td>Microsoft Student Community, SRMAP</td>
+<td>Jun 2025 -- Nov 2025</td>
+</tr>
+<tr>
+<td>College Ambassador</td>
+<td>IIT Bombay (Techfest 2025)</td>
+<td>Aug 2025 -- Dec 2025</td>
+</tr>
+<tr>
+<td>Member</td>
+<td>The Singularity Advanced Research Lab</td>
+<td>Aug 2025 -- Feb 2026</td>
+</tr>
+<tr>
+<td>Convenor</td>
+<td>Coding Club SRMAP</td>
+<td>May 2026 -- Present</td>
+</tr>
+</table>
 </div>
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### ~/ Connect
 
 <div align="center">
-
-*Open to work, research collaborations, open-source contributions, and building cool things together.*
-
-<br/>
 
 <a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-11151C?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://adiforge-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-ADITYA_KUMAR-11151C?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="mailto:hustlewthadi@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-11151C?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/aditya-forge">
-  <img src="https://img.shields.io/badge/GITHUB-ADITYA--FORGE-11151C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
+*Open to internships · collaborations · building cool things*
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DCFFF,50:BB9AF7,100:7AA2F7&height=120&section=footer" width="100%" />
+
 </div>
