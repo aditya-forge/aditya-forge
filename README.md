@@ -98,7 +98,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 </td>
 <td align="center" width="50%">
 <h3>Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,nodejs,express,fastapi&theme=dark" alt="frameworks" />
 </td>
 </tr>
 <tr>
@@ -120,8 +120,11 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <td align="center" colspan="2">
 <h3>DevOps & Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="devops" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=bash,powershell&theme=dark" alt="languages" />
 <img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" alt="more tools" /><br/><br/>
-<img src="https://img.shields.io/badge/emu8086-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="emu8086" />
+<img src="https://img.shields.io/badge/emu8086-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="emu8086" />&nbsp;
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </td>
 </tr>
 </table>
@@ -147,6 +150,11 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <td>Gold Medalist (Presenting Author)</td>
 <td>10th Research Day, SRM University-AP</td>
 <td>Apr 2026</td>
+</tr>
+<tr>
+<td>High-Performing Intern (Certificate of Merit - Top 50% of Interns)</td>
+<td>CCC Digital India Private Limited</td>
+<td>Jul 2026</td>
 </tr>
 </table>
 </div>
