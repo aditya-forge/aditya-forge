@@ -125,6 +125,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <img src="https://img.shields.io/badge/emu8086-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white" alt="emu8086" />&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+<img src="https://img.shields.io/badge/Meshery-%2300B39F.svg?style=for-the-badge&logo=meshery&logoColor=white" alt="Meshery" />&nbsp;
 </td>
 </tr>
 </table>
@@ -158,6 +159,25 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 </tr>
 </table>
 </div>
+
+---
+### ~/ Badges
+
+<div align="center">
+<table width="100%">
+<tr>
+<th width="33%" align="center"><h3><img src="https://github.com/leetcode.png" width="24" valign="middle" style="border-radius: 4px;" /> LeetCode</h3></th>
+<th width="33%" align="center"><h3><img src="https://github.com/layer5io.png" width="24" valign="middle" style="border-radius: 4px;" /> Layer5</h3></th>
+<th width="33%" align="center"><h3><img src="https://cdn.simpleicons.org/credly/F15A22" width="24" valign="middle" /> Credly</h3></th>
+</tr>
+<tr align="center" valign="middle">
+<td><br/><img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" alt="LeetCode 100 Days" width="80" />&nbsp;&nbsp;<img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" alt="LeetCode 50 Days" width="80" /><br/>&nbsp;</td>
+<td><br/><img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 Design Pioneer" width="115" /><br/>&nbsp;</td>
+<td><br/><img src="https://images.credly.com/size/680x680/images/650ebdbe-d526-4b47-b186-c1ab516b5a7c/image.png" alt="Credly MongoDB Badge" width="115" /><br/>&nbsp;</td>
+</tr>
+</table>
+</div>
+
 
 ---
 
