@@ -13,12 +13,17 @@ const aditya = {
     role         : "B.Tech CSE Student @ SRM University AP  |  GPA: 9.35",
     patent       : "Published Inventor of the AI-Enabled Smart Trolley System (2025)",
     experience   : [
-                    "Product Engineering Intern (AI) @ CCC Digital India Private Limited",
-                    "Web Development Intern       @ Vaultsphere AI Technologies",
-                    "Research Associate (Grant-Funded)     @ SRM University AP (EEE R&D)"
+                    "AI & ML Intern @ testAIng.com",
+                    "Product Engineer (AI) @ CCC Digital India Private Limited",
+                    "Web Developer @ Vaultsphere AI Technologies",
                    ],
+    training     : ["Intern – Defence & Space Tech @ Bharat Space Education Research Centre (BSERC)"],
     stack        : ["MERN", "Python", "C++", "MongoDB", "SQL"],
     currentFocus : ["Full Stack", "AI/ML", "DSA", "System Design"],
+    organizations: [
+                    "SRM University AP (EEE R&D) – Research Associate (Grant-Funded)",
+                    "Hindustan Aeronautics Limited (HAL) – Corporate Ward"
+                   ],
     philosophy   : "Ship fast. Think deeper. Break things. Rebuild better."
 };
 ```
@@ -66,9 +71,9 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <th width="25%">Duration</th>
 </tr>
 <tr>
-<td>Research Associate (Grant-Funded)</td>
-<td>SRM University, AP</td>
-<td>Oct 2025 -- Present</td>
+<td>AI & ML Intern</td>
+<td>testAIng.com</td>
+<td>Nov 2026 -- Present</td>
 </tr>
 <tr>
 <td>Web Developer</td>
@@ -82,6 +87,7 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 </tr>
 </table>
 </div>
+
 
 
 ---
@@ -181,6 +187,25 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 ---
 
+### ~/ Training Programs
+
+<div align="center">
+<table>
+<tr>
+<th width="40%">Program / Organization</th>
+<th width="30%">Role / Focus Area</th>
+<th width="30%">Duration</th>
+</tr>
+<tr>
+<td>Bharat Space Education Research Centre (BSERC)</td>
+<td>Intern – Defence & Space Tech</td>
+<td>Oct 2026 -- Nov 2026</td>
+</tr>
+</table>
+</div>
+
+---
+
 
 ### ~/ Certifications
 
@@ -215,6 +240,30 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>  
 
+</div>
+
+---
+
+### ~/ Organizations
+
+<div align="center">
+<table>
+<tr>
+<th width="35%">Organization</th>
+<th width="30%">Association</th>
+<th width="35%">Details</th>
+</tr>
+<tr>
+<td>SRM University, AP</td>
+<td>Student Research Associate</td>
+<td>Oct 2025 -- Present</td>
+</tr>
+<tr>
+<td>Hindustan Aeronautics Limited (HAL)</td>
+<td>Corporate Ward</td>
+<td>Nov 2020 -- Present</td>
+</tr>
+</table>
 </div>
 
 ---
